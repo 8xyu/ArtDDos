@@ -1,6 +1,6 @@
 How To Install?
 
-$ git clone https://github.com/nikavarbb/ArtDDos
+$ git clone https://github.com/8xyu/ArtDDos
 
 $ cd ArtDDos
 
